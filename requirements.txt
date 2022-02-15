@@ -1,5 +1,4 @@
-numpy>=1.9.2
+pycaret==2.3.4
 pandas==1.2.4
 flask==1.1.2
 gunicorn==19.9.0
-pycaret==2.3.4
